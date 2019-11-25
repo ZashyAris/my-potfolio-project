@@ -4,6 +4,7 @@
     padding: 30px;
     background-color: lavender;
     font-size: 24px;
+    overflow: none;
 }
 
 nav {
