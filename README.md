@@ -7,3 +7,5 @@ It has details about me for example
 ### Technologies used
 * html
 * css
+#### writen by: Sharon Atieno Auma
+#### contacts: +254793933082
