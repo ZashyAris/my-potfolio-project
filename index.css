@@ -1,17 +1,19 @@
-.container{
+.container {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 5px;
     padding: 30px;
     background-color: lavender;
     font-size: 24px;
 }
+
 nav {
     padding-top: 5px;
     padding-bottom: 5px;
     font-size: 30px;
     background-color: grey;
-    width:100%; 
+    width: 100%;
 }
+
 nav ul {
     text-align: right;
 }
@@ -30,16 +32,16 @@ nav>ul>li>a {
     list-style: none;
     color: white;
 }
+
 nav>ul>li>a:hover {
-    color:black
+    color: black
 }
-img{
+
+img {
     border-radius: 50px;
 }
-h1{
-    
-}
-#footer{
+
+#footer {
     background-color: grey;
     text-align: center;
     padding-top: 5px;
