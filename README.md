@@ -11,3 +11,8 @@ It has details about me for example
 ### Technologies used
 * html
 * css
+### Link to the website access
+ https://github.com/ZashyAris/my-potfolio-project.github.io
+## License
+Licensed under the  [MIT license](LICENSE).
+
